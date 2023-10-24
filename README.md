@@ -21,7 +21,7 @@
 > 인용문
 > ㅇㄴ러나ㅣㅇ린이ㅏ럼;ㅣ
 
-![screenshot_20171221-151714](https://user-images.githubusercontent.com/23310187/34244435-91eab306-e668-11e7-8063-735dff683bf8.png)
+![하얀 강아지](https://i.esdrop.com/d/ZklKfna5T3.jpg)
 
 ```java
 public class BootSpringBootApplication {
