@@ -31,4 +31,4 @@ public class BootSpringBootApplication {
 }
 ```
 
-이런 코드는 'break'로 빠져나오는 거야.
+이런 코드는 `break`로 빠져나오는 거야.
